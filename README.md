@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Fm17FUy0)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23442218)
 # PRÁTICA AVALIADA 2 - ES1 (10 pontos)
@@ -530,3 +531,6 @@ Conforme Plano de Estudos das Unidades 4, 5, 6 e 7.
 4. **SOLID**: Cada classe deve ter uma única razão para mudar. Pense em responsabilidades, não em funcionalidades.
 5. **Refatoração**: Comece identificando as responsabilidades distintas e crie classes separadas para cada uma.
 6. **Banco de Dados**: O arquivo `biblioteca.db` já está configurado. Você pode testá-lo localmente com SQLite.
+=======
+# pratica-avaliada-2---engenharia-de-software
+>>>>>>> 6ba7b28077cd27e608a9d75a375c80e5ca209021
