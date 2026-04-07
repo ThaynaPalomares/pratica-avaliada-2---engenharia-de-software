@@ -531,6 +531,3 @@ Conforme Plano de Estudos das Unidades 4, 5, 6 e 7.
 4. **SOLID**: Cada classe deve ter uma única razão para mudar. Pense em responsabilidades, não em funcionalidades.
 5. **Refatoração**: Comece identificando as responsabilidades distintas e crie classes separadas para cada uma.
 6. **Banco de Dados**: O arquivo `biblioteca.db` já está configurado. Você pode testá-lo localmente com SQLite.
-=======
-# pratica-avaliada-2---engenharia-de-software
->>>>>>> 6ba7b28077cd27e608a9d75a375c80e5ca209021
